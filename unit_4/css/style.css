@@ -1,0 +1,31 @@
+body{
+	background-color: #BF8073;
+	text-align: center;
+	margin: 150px;
+}
+h1{
+	color: #FFC0B3;
+	font-size: 64px;
+	font-family: 'Montserrat', sans-serif;
+}
+h2{
+	color: #FFC0B3;
+	font-size: 48px;
+	font-family: 'Playfair Display', serif;
+}
+p{
+	color: #212121;
+	font-family: 'Playfair Display', serif;
+}
+ul{
+	color: #212121;
+	font-size: 14px;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+}
+a{
+	color: white;
+	font-size: 11px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
