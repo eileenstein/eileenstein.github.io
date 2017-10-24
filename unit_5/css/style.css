@@ -1,0 +1,62 @@
+body{
+	background-color: #BF8073;
+	text-align: center;
+	margin: 150px;
+}
+h1{
+	color: #FFC0B3;
+	font-size: 64px;
+	font-family: 'Montserrat', sans-serif;
+}
+h2{
+	color: #FFC0B3;
+	font-size: 48px;
+	font-family: 'Playfair Display', serif;
+}
+p{
+	color: #212121;
+	font-family: 'Playfair Display', serif;
+}
+ul.home-beliefs{
+	color: #212121;
+	font-size: 14px;
+	text-align: left;
+	font-family: 'Montserrat', sans-serif;
+}
+ul.nav-bar{
+	list-style-type: none;
+	display: inline;
+}
+ul.nav-bar li{
+	display: inline;
+	width: auto;
+	float: center;
+	padding: 14px;
+}
+a{
+	color: white;
+	font-size: 11px;
+	text-decoration: none;
+	font-family: 'Montserrat', sans-serif;
+}
+header{
+	background-color: #FFED74;
+}
+nav{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: #E8C66A;
+}
+aside{
+	background-color: #FFC675;
+}
+article{
+	background-color: #E89C6C;
+}
+footer{
+	background-color: #FF957E;
+}
+div, section{
+	background-color: #FFE2B8;
+}
